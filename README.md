@@ -1,16 +1,38 @@
-## Hi there 👋
+<h2 align="center">✨ Olá, eu sou a Iara Aguilar! ✨</h2>
 
-<!--
-**Iaaraguilar/Iaaraguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Técnica em Desenvolvimento de Sistemas pela ETEC Jorge Street <br/>
+  💻 Atualmente estudando Ciência de Dados no SENAI <br/>
+  🚀 Apaixonada por programação e análise de dados <br/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Tecnologias que tenho aprendido:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+</p>
+
+
+
+📊 Minhas estatísticas no GitHub:
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iaaraguilar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iaaraguilar&theme=tokyonight&layout=compact&custom_title=Linguagens mais usadas"/> 
+</div>
+
+
+### 🌱 Em constante evolução...
+
+> Estou aprendendo mais sobre programação, dados e como usar essas ferramentas para resolver problemas do mundo real. Cada linha de código é um passo mais perto dos meus sonhos! 💻✨
+
+
+
+### 📫 Onde me encontrar:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/iara-aguilar-615913250)
+
+
