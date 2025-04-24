@@ -21,7 +21,7 @@
 ### 📊 Minhas estatísticas no GitHub:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iaaraguilar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iaaraguilar&theme=tokyonight&layout=compact&custom_title=Linguagens mais usadas"/>
+
 </div>
 
 
