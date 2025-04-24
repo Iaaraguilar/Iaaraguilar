@@ -1,4 +1,4 @@
-<h2 align="center">✨Iara Aguilar!✨</h2>
+<h2 align="center">✨Iara Aguilar✨</h2>
 
 <p align="center">
   🎓 Técnica em Desenvolvimento de Sistemas pela ETEC Jorge Street <br/>
