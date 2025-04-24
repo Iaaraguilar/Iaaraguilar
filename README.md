@@ -17,14 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </p>
-
-### 📊 Minhas estatísticas no GitHub:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iaaraguilar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-</div>
-
-
 ### 🌱 Em constante evolução...
 
 > Estou aprendendo mais sobre programação, dados e como usar essas ferramentas para resolver problemas do mundo real. Cada linha de código é um passo mais perto dos meus sonhos! 💻✨
