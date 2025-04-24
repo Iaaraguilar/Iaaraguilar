@@ -1,4 +1,4 @@
-<h2 align="center">✨ Olá, eu sou a Iara Aguilar! ✨</h2>
+<h2 align="center">✨ Oi, meu nome é Iara Aguilar! ✨</h2>
 
 <p align="center">
   🎓 Técnica em Desenvolvimento de Sistemas pela ETEC Jorge Street <br/>
