@@ -6,8 +6,6 @@
   🚀 Apaixonada por programação e análise de dados <br/>
 </p>
 
-
-
 ### 🚀 Tecnologias que tenho aprendido:
 
 <p align="left">
@@ -16,11 +14,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL/MySQL" alt="SQL" width="40" height="40"/>&nbsp;
 </p>
 
-
-
 ### 🌱 Em constante evolução...
+
 
 > Estou aprendendo mais sobre programação, dados e como usar essas ferramentas para resolver problemas do mundo real. Cada linha de código é um passo mais perto dos meus sonhos! 💻✨
 
